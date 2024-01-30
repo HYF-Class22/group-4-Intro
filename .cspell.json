@@ -1,14 +1,21 @@
 {
   "language": "en",
   "words": [
-    "HackYourFutureBelgium",
-    "HackYourFuture",
-    "Nepo",
-    "Mykhailo",
-    "Shevchenko",
-    "Rugira",
+    "Backroads",
+    "Choti",
     "Chotirat",
-    "Jonggrit"
+    "Coursera",
+    "Epam",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Jonggrit",
+    "misha",
+    "Mykhailo",
+    "Nepo",
+    "Rugira",
+    "shevchenko",
+    "Taurida",
+    "Vernadskiy"
   ],
   "ignorePaths": [
     "node_modules/**",
