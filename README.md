@@ -1,6 +1,14 @@
-# (project name)
+# Group 4
 
 <!-- describe your project -->
+
+Welcome to our group project! We used a Markdown template repository to create a
+collaborative "get-to-know-you" repository. Our main goal is to foster group
+unity and practice working together in a shared space.
+
+For this project, each member added one markdown file to the repository, which
+made it an enjoyable and interactive experience as we got to know each other
+better.
 
 ## Getting Started
 
