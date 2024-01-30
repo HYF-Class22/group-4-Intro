@@ -1,4 +1,4 @@
-### 👋🏽 Hey! I'm Choti.
+# 👋🏽 Hey! I'm Choti
 
 ![choti](https://choti-portfolio.netlify.app/images/profile_photo.png)
 
