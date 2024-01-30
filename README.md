@@ -1,62 +1,35 @@
-# Group 4
+# Collaborative Get-to-Know Project by Group 4
 
-<!-- describe your project -->
+## Project Description
 
 Welcome to our group project! We used a Markdown template repository to create a
-collaborative "get-to-know-you" repository. Our main goal is to foster group
-unity and practice working together in a shared space.
+collaborative `group4-Intro` repository. Our main goal is to practice working
+together in a shared space AKA GitHub.
 
 For this project, each member added one markdown file to the repository, which
 made it an enjoyable and interactive experience as we got to know each other
-better.
+better.✨
 
 ## Contributors
 
-- **Mykhailo Shevchenko**
-- **Rugira Prince**
-- **Chotirat Jonggrit**
+|                                                                                                          |                                                                                                       |
+| :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/105544023?v=4" alt="image" width="100" height="auto"/> | 📕 [**Mykhailo Shevchenko**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/misha.md)  |
+| <img src="https://avatars.githubusercontent.com/u/35040023?v=4" alt="image" width="100" height="auto"/>  | 📘 [**Rugira Prince**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/rugiraprince.md) |
+| <img src="https://avatars.githubusercontent.com/u/19163475?v=4" alt="image" width="100" height="auto"/>  | 📙 [**Chotirat Jonggrit**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/jgchoti.md)  |
 
-## Getting Started
+<!-- link need to be updated & check -->
 
-<!-- a guide to using this repository -->
+## Technologies Used
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+🚀 **GitHub:** Utilizing Git for version control and GitHub for collaboration.
 
-## Code Quality Checks
+🚀 **Markdown:** Creating well-formatted introduction files using Markdown.
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+🚀 **Linting Checks:** Ensuring code consistency and quality.
 
-## Continuous Integration (CI)
+🚀 **Pull Requests:** Implementing code review processes for effective
+collaboration.
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+🚀 **Project Board:** Managing tasks and tracking progress through GitHub
+project boards.
