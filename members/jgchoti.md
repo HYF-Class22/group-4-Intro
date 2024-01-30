@@ -2,8 +2,8 @@
 
 ![Choti](https://choti-portfolio.netlify.app/images/profile_photo.png)
 
-🌏 **Background:** Thai 🇹🇭 Now juggling life in Belgium 🇧🇪. I've lived in
-🇹🇭 🇨🇭🇬🇧 🇲🇻 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
+🌏 **Background:** Thai 🇹🇭 Now juggling life in Belgium 🇧🇪. I've lived in 🇹🇭
+🇨🇭🇬🇧 🇲🇻 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
 
 🚀 **Current Journey:** Embarking on a coding journey with the
 [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium)
