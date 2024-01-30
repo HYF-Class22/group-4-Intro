@@ -1,6 +1,7 @@
 # 👋🏽 Hey! I'm Choti
 
-![Choti](https://choti-portfolio.netlify.app/images/profile_photo.png)
+<img src="https://choti-portfolio.netlify.app/
+images/profile_photo.png" alt="image" width="300" height="auto">
 
 🌏 **Background:** Thai 🇹🇭 Now juggling life in Belgium 🇧🇪. I've lived in 🇹🇭
 🇨🇭🇬🇧 🇲🇻 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
@@ -17,3 +18,7 @@ sustainability.
 related to cats 🐾!
 
 Let's connect! 💻✨
+
+---
+
+![cat coding](https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47vhoij3fvlm0uzgmrnvnvpb9q6g6m5jr69f0bqr96&ep=v1_gifs_related&rid=giphy.gif&ct=g)
