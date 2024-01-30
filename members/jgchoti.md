@@ -1,6 +1,6 @@
 # 👋🏽 Hey! I'm Choti
 
-## <img src="https://choti-portfolio.netlify.app/images/profile_photo.png" alt="image" width="300" height="auto">
+<img src="https://choti-portfolio.netlify.app/images/profile_photo.png" alt="image" width="300" height="auto">
 
 🌏 **Background:** Thai 🇹🇭 Now juggling life in Belgium 🇧🇪. I've lived in 🇹🇭
 🇨🇭🇬🇧 🇲🇻 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
