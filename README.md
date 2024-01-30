@@ -10,6 +10,12 @@ For this project, each member added one markdown file to the repository, which
 made it an enjoyable and interactive experience as we got to know each other
 better.
 
+## Contributors
+
+- **Mykhailo Shevchenko**
+- **Rugira Prince**
+- **Chotirat Jonggrit**
+
 ## Getting Started
 
 <!-- a guide to using this repository -->
