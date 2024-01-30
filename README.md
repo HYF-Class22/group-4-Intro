@@ -12,11 +12,11 @@ better.✨
 
 ## Contributors
 
-|                                                                                                         |                                                                                                       |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/105544023?v=4" alt="image" width="100" height="auto"> | 📕 [**Mykhailo Shevchenko**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/misha.md)  |
-| <img src="https://avatars.githubusercontent.com/u/35040023?v=4" alt="image" width="100" height="auto">  | 📘 [**Rugira Prince**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/rugiraprince.md) |
-| <img src="https://avatars.githubusercontent.com/u/19163475?v=4" alt="image" width="100" height="auto">  | 📙 [**Chotirat Jonggrit**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/jgchoti.md)  |
+|                                                                                                          |                                                                                                       |
+| :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/105544023?v=4" alt="image" width="100" height="auto"/> | 📕 [**Mykhailo Shevchenko**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/misha.md)  |
+| <img src="https://avatars.githubusercontent.com/u/35040023?v=4" alt="image" width="100" height="auto"/>  | 📘 [**Rugira Prince**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/rugiraprince.md) |
+| <img src="https://avatars.githubusercontent.com/u/19163475?v=4" alt="image" width="100" height="auto"/>  | 📙 [**Chotirat Jonggrit**](https://github.com/HYF-Class22/group4-Intro/blob/main/members/jgchoti.md)  |
 
 <!-- link need to be updated & check -->
 
