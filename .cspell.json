@@ -21,6 +21,11 @@
     "node_modules/**",
     "package.json",
     "package-lock.json",
+    "kinyamulenge",
+    "runundu",
+    "rugiraprince",
+    "UGEAFI",
+    "swahili",
     "**/*.mp4",
     "**/*.svg"
   ]
