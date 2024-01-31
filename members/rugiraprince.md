@@ -1,48 +1,35 @@
-# i am rugira prince
+# Rugira prince
 
 ![rugiraprince](/img/rugiraprince.jpeg)
 
- now currently learning full stuck web developer
+ now currently learning full stuck web developer [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium)
+****
 
-# education
+## Education
 
 JUNE 2018
 HIGH SCHOOL DIPLOMA AT UGEAFI
 JUNE 2012
 Primary school Ep Runundu
+****
 
-# skill
+## SKILLS
 
-html
-css
-js
-php
+HTML
+CSS
+JS
+PHP
+****
 
-# EXPERIENCES
+### LANGUAGE
 
-DATES FROM october 2021 CURRENTLY
-work at DHL belgium
-
-DATES FROM MAY 2021 up to october 2021
-• community work at centre of asylum Arlon
-DATE FROM OCT, 2019 UP TO JANUARY 2021
-• IT TECHNICIAN MINEMBWE CYBER INTERNET
-I was providing a wide range of services to support, fix, and maintain the hardware and
-software computer systems means install, troubleshoot, test, or help roll out security features,
-hardware, and software, or maintain networks and computer systems.
-
-# LANGUAGE
-
-• French (intermediate b1)
-• English (advanced c1)
-• Kiswahili(b1)
+• French
+• English
+• swahili
 • Kinyamulenge (mother language)
+****
 
-# PROFESIONAL SUMMARY
-
-• Organized and dependable candidate successful at managing multiple priorities with a
-positive attitude. Willingness to take on added responsibilities to meet team goals.
-
-# HOBBIES
+### HOBBIES
 
 • SPORTS (football), read books, fitness.
+****
